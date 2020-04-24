@@ -1,0 +1,21 @@
+@charset "UTF-8";
+.texto {
+	font-size: 20px;
+	font-weight: bold;
+}
+.botao { 
+	font-family: Arial, Helvetica, sans-serif;
+ 	font-size: 30px;
+ 	font-weight: bold;
+    background-color: #ff0000; 
+    color: #fffafa; 
+    border:  5px solid #ff0000;
+ 	border-color: #ff0000;
+ 	border-radius: 20px;
+    border-left-width: 20px;
+    border-right-width: 20px;
+    border-top-width: 5px;
+	border-bottom-width: 5px;
+	margin: 13px;
+    text-decoration: none;
+}
